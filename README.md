@@ -20,15 +20,15 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 # Component-Based Architecture:
 
-    The application is organized into reusable components (e.g., ThemeToggle, DataTable), which enhances maintainability and allows for easier updates.
+- The application is organized into reusable components (e.g., ThemeToggle, DataTable), which enhances maintainability and allows for easier updates.
 
 # Theming:
 
-    A theme toggle feature using Material UI allows users to switch between light and dark modes, improving user experience based on personal preferences.
+- A theme toggle feature using Material UI allows users to switch between light and dark modes, improving user experience based on personal preferences.
 
 # Responsive Design:
 
-    Utilized Material UI's useMediaQuery to ensure the table is responsive, providing a good layout across various screen sizes.
+- Utilized Material UI's useMediaQuery to ensure the table is responsive, providing a good layout across various screen sizes.
 
 # Challenges Faced
 
