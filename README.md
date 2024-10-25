@@ -32,19 +32,19 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 # Challenges Faced
 
-1. State Management:
-   Managing the theme state and ensuring it persists across component renders required careful handling to guarantee that the UI updates correctly upon toggling.
-2. Implementing Theme Change:
-   Learning to implement theme changes through Material UI involved understanding its theming capabilities, including the createTheme function and how to apply themes dynamically. This required experimenting with different configurations to achieve a seamless transition between light and dark modes.
+- State Management:
+  Managing the theme state and ensuring it persists across component renders required careful handling to guarantee that the UI updates correctly upon toggling.
+- Implementing Theme Change:
+  Learning to implement theme changes through Material UI involved understanding its theming capabilities, including the createTheme function and how to apply themes dynamically. This required experimenting with different configurations to achieve a seamless transition between light and dark modes.
 
 # Potential Improvements
 
-1. Persisting Theme Preference:
-   Implementing local storage to save the user's theme preference could enhance the user experience by retaining their choice across sessions.
-2. Pagination in DataTable:
-   Introducing pagination for the data table could improve performance and usability, especially when dealing with larger datasets.
-3. Testing:
-   Adding unit tests for components and integration tests for the overall application would improve reliability and maintainability.
+- Persisting Theme Preference:
+  Implementing local storage to save the user's theme preference could enhance the user experience by retaining their choice across sessions.
+- Pagination in DataTable:
+  Introducing pagination for the data table could improve performance and usability, especially when dealing with larger datasets.
+- Testing:
+  Adding unit tests for components and integration tests for the overall application would improve reliability and maintainability.
 
 # GitHub Link
 
